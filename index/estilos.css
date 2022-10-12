@@ -1,0 +1,90 @@
+.carousel {
+    margin-bottom: 4rem;
+  }
+  /* Since positioning the image, we need to help out the caption */
+  .carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+  }
+  
+  /* Declare heights because of positioning of img element */
+  .carousel-item {
+    height: 32rem;
+  }
+  
+  .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  .btn-primary-outline {
+    background-color: transparent;
+    border-color: #ccc;
+  }
+
+  .colorAtriqui{  background-color:#034957;}
+
+
+  .colorNav{
+
+    background-color: #4f5153;
+  }
+
+  .colorLetras{color:green}
+
+  .acoplar{
+
+    width: 1140px;
+    padding: 0px;
+  }
+
+  .mover{
+
+ transform: translateX(12px);   
+  }
+
+  .moverCarrousel{
+
+    transform: translateX(-5px);   
+     }
+
+     .foto{
+      object-fit: cover;
+      width:100%;
+      height:100%;
+    
+     }
+
+     .oscurecer-img{
+      filter: brightness(50%); 
+    }
+
+    .bordeBlanco{
+
+      border-left: #ccc;
+      border-top: #3f4042;
+    }
+
+
+    .bordeCeleste{
+
+      border-top: rgb(62, 10, 66);
+    }
+
+    .boton{
+
+      background-color: rgb(61, 180, 61);
+      color: rgb(61, 180, 61) ;
+    }
+ 
+    .moverY{
+
+      transform: translateY(13px);
+    }
+
+    
+
+    
