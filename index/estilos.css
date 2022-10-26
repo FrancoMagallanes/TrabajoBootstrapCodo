@@ -85,6 +85,21 @@
       transform: translateY(13px);
     }
 
-    
+    .margenes{
+
+      margin: right 5px;
+      margin-left: 5px;
+    }
+
+    .letraGris{
+
+      color: #7d8996;
+    }
+
+    .letraAzul{
+
+
+      color: blue;
+    }
 
     
